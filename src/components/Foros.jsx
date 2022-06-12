@@ -40,7 +40,7 @@ const Foros = () => {
             title:'Hoy lunes ISS en 437.525 con colegio italiano!',
             img: Contacto,
             subtitle: 'Hoy lunes contacto desde la ISS con un colegio de Cerdeña, Italia. ',
-            description: 'La ISS llamará a la IKØWGF. Hoy lunes 6 de junio  a las 13.43 EA, 11.43 GMT Lo emitirán en: https://youtube.com/channel/UCVmGUvZkLAMhErRQQ6AkVMA',
+            description: 'La ISS llamará a la IKØWGF. Hoy lunes 6 de junio  a las 13.43 EA, 11.43 GMT Lo emitirán en: https://youtube.com/channel',
             date: '06/06/2022 a las 10:00',
             category: 'noticias',
             creator: 'admin11'
@@ -49,7 +49,7 @@ const Foros = () => {
             title:'Hoy sabado- Astronauta Samantha en italiano por 145.800',
             img: Space,
             subtitle: 'HOY SABADO contacto desde la ISS con estudiantes del Istituto Comprensivo “Losapio–S.F. Neri”, Gioia del Colle, Puglia, Italia.',
-            description: 'El contacto será en italiano con la astronauta Samantha Cristoforetti IZØUDF, siempre en 145.800. SABADO 4 de JUNIO a las 11.43 GMT en 145.800  Se emitirá aqui   https://www.youtube.com/channel/UCmfI6IhajshGME8jZTdjBrA, ',
+            description: 'El contacto será en italiano con la astronauta Samantha Cristoforetti IZØUDF, siempre en 145.800. SABADO 4 de JUNIO a las 11.43 GMT en 145.800  Se emitirá aqui https://www.youtube.com/channe ',
             date: '04/06/2022 a las 12:00',
             category: 'noticias',
             creator: 'admin11'
@@ -76,7 +76,7 @@ const Foros = () => {
             title:'Hoy lunes ISS en 437.525 con colegio italiano22!',
             img: Contacto,
             subtitle: 'Hoy lunes contacto desde la ISS con un colegio de Cerdeña, Italia. ',
-            description: 'La ISS llamará a la IKØWGF. Hoy lunes 6 de junio  a las 13.43 EA, 11.43 GMT Lo emitirán en: https://youtube.com/channel/UCVmGUvZkLAMhErRQQ6AkVMA',
+            description: 'La ISS llamará a la IKØWGF. Hoy lunes 6 de junio  a las 13.43 EA, 11.43 GMT Lo emitirán en: https://youtube.com/channel',
             date: '06/06/2022 a las 10:00',
             category: 'noticias',
             creator: 'admin11'
@@ -85,7 +85,7 @@ const Foros = () => {
             title:'Hoy sabado- Astronauta Samantha en italiano por 145.80022',
             img: Space,
             subtitle: 'HOY SABADO contacto desde la ISS con estudiantes del Istituto Comprensivo “Losapio–S.F. Neri”, Gioia del Colle, Puglia, Italia.',
-            description: 'El contacto será en italiano con la astronauta Samantha Cristoforetti IZØUDF, siempre en 145.800. SABADO 4 de JUNIO a las 11.43 GMT en 145.800  Se emitirá aqui   https://www.youtube.com/channel/UCmfI6IhajshGME8jZTdjBrA, ',
+            description: 'El contacto será en italiano con la astronauta Samantha Cristoforetti IZØUDF, siempre en 145.800. SABADO 4 de JUNIO a las 11.43 GMT en 145.800  Se emitirá aqui   https://www.youtube.com/channel',
             date: '04/06/2022 a las 12:00',
             category: 'noticias',
             creator: 'admin11'
@@ -112,7 +112,7 @@ const Foros = () => {
             title:'Hoy lunes ISS en 437.525 con colegio italiano33!',
             img: Contacto,
             subtitle: 'Hoy lunes contacto desde la ISS con un colegio de Cerdeña, Italia. ',
-            description: 'La ISS llamará a la IKØWGF. Hoy lunes 6 de junio  a las 13.43 EA, 11.43 GMT Lo emitirán en: https://youtube.com/channel/UCVmGUvZkLAMhErRQQ6AkVMA',
+            description: 'La ISS llamará a la IKØWGF. Hoy lunes 6 de junio  a las 13.43 EA, 11.43 GMT Lo emitirán en: https://youtube.com/channel',
             date: '06/06/2022 a las 10:00',
             category: 'noticias',
             creator: 'admin11'
@@ -121,7 +121,7 @@ const Foros = () => {
             title:'Hoy sabado- Astronauta Samantha en italiano por 145.80033',
             img: Space,
             subtitle: 'HOY SABADO contacto desde la ISS con estudiantes del Istituto Comprensivo “Losapio–S.F. Neri”, Gioia del Colle, Puglia, Italia.',
-            description: 'El contacto será en italiano con la astronauta Samantha Cristoforetti IZØUDF, siempre en 145.800. SABADO 4 de JUNIO a las 11.43 GMT en 145.800  Se emitirá aqui   https://www.youtube.com/channel/UCmfI6IhajshGME8jZTdjBrA, ',
+            description: 'El contacto será en italiano con la astronauta Samantha Cristoforetti IZØUDF, siempre en 145.800. SABADO 4 de JUNIO a las 11.43 GMT en 145.800  Se emitirá aqui   https://www.youtube.com/channel',
             date: '04/06/2022 a las 12:00',
             category: 'noticias',
             creator: 'admin11'
