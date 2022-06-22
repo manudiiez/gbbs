@@ -28,7 +28,7 @@ const Foros = () => {
     
     const [arrForos, setArrForos] = useState([
         {
-            title:'Nueva antena: BIG SIGNAL SkyLoop-46',
+            title:'Nueva antena: BIG SIGNAL SkyLoop-465',
             img: Antena,
             subtitle: 'La empresa española BIG SIGNAL acaba de presentar su nueva antena para 50 y 70 Mhz: BIG SIGNAL SkyLoop-46. ',
             description: 'Descubre nuestra nueva novedad, la antena BIG SIGNAL SkyLoop-46 un innovador diseño de antena loop Dual-Band de longitud de onda completa en 50 y 70 MHz. La antena BIG SIGNAL SkyLoop-46 te ofrece una excelente opción de antena omnidireccional para trabajar las bandas de 4 y 6 metros en una sola antena y un unico coaxial, ideal para espacios reducidos para no perderte ninguna esporadica esta temporada! Ventajas de elegir la antena BIG SIGNAL SkyLoop-46 frente a una antena vertical tradicional, dipolo, o similar?',
