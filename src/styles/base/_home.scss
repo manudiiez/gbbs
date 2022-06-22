@@ -41,6 +41,20 @@
     #nosotros{
         background-color: $color-secondary;
 
+        .directorContainer{
+            @media (max-width: 992px){
+                flex-direction: column-reverse;
+            }
+
+            .imgDirector{
+                width: 70%;
+            }
+
+        }
+        .imgDirector{
+            width: 70%;
+        }
+
         .container-lg{
             max-width: 1024px;
 
@@ -83,49 +97,31 @@
 
     #organizaciones{
         background-color: $color-white;
+
         .container-lg{
             .row{
                 .organizacionesText{
-                    h5{
-                        color: $color-primary;
-                        font-size: 32px;
-                        font-weight: normal;
-                    }
-
-                    ol{
-                        li{
-                            font-size: 20px;
-                            padding: 15px;
-                            text-align: center;
-
-                            
-                        }
-                    }
-                    @media (min-width: 992px) {
-                        h5{
-                            font-size: 38px;
-                        }
-                        ol{
-                            li{
-                                font-size: 24px;
-                            }
-                        }
-                    }
+                    color: $color-primary;
+                    font-size: 32px;
+                    font-weight: normal;
                 }
 
-                .organizacionesImgs{
-                    .row{
+                .row{
+                    div{
+
                         img{
-                            padding: 10px;
-                            width: 100%;
+                            width: 70%;
+                            margin: 20px 0;
+                        }
+                        h6{
+                            text-align: center;
+                            color: $color-secondary;
+                            font-size: 22px;
+                            font-weight: normal;
                         }
                     }
                 }
             }
-        }
-
-        img{
-            width: 100%;
         }
     }
 }

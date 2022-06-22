@@ -138,25 +138,6 @@ const Foros = () => {
         
     ])
 
-    const [arrGod, setArrGod] = useState([
-        {title: 'go1'},
-        {title: 'go2'},
-        {title: 'go3'},
-        {title: 'go4'},
-        {title: 'go5'},
-        {title: 'go6'},
-        {title: 'go7'},
-        {title: 'go8'},
-        {title: 'go9'},
-        {title: 'go10'},
-        {title: 'go11'},
-        {title: 'go12'},
-        {title: 'go13'},
-        {title: 'go14'},
-        {title: 'go15'},
-        {title: 'go16'}
-    ]);
-
     const navigate = useNavigate()
 
 

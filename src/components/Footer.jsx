@@ -16,10 +16,23 @@ const Footer = () => {
                         <h6 className='text-center text-light h4'>ETec GBBS</h6>
                     </div>
                     <div className="col-lg-4 col-6 footerLinks py-3">
-                        <div className="row">
+                        <div className="row justify-content-center align-items-center">
                             <img className='col-6' src={Etec} alt="" />
                             <img className='col-6' src={Um} alt="" />
                         </div>
+                    </div>
+
+                    <div className="col-12">
+                        
+                    </div>
+                </div>
+                <div className="row pt-3 justify-content-center align-items-center footerBottom">
+                    <h6 className='text-light h5 fw-normal py-3'>Contactos</h6>
+                    
+                    <div className='d-flex justify-content-around align-items-center'>
+                        <a href="#" className='link-light text-center col-lg-4 col'>jorge.favier@etec.um.edu.ar</a>
+                        <a href="#" className='link-light  text-center col-lg-4 col'>contacto.repi@um.edu.ar</a>
+                        <p className='text-light m-0 text-center col-lg-4 col'>Repi: +54 261 420 2017</p>
                     </div>
                 </div>
             </div>
